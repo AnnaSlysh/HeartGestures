@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Jura&display=swap');
+    
+.stApp {
+    background-color: #FFF7F4;
+    font-family: 'Jura', sans-serif;
+}
+.stMarkdown { 
+    color: #EFE9D3;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: 'Jura', sans-serif;
+}
+.title_subheader {
+    font-size: 30px;
+    color: #276B5A;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+}
+.text {
+    background-color: #588F7C;
+    color: #FFFFFF;
+    padding: 20px;
+    border: 8px solid #276B5A;
+    border-radius: 12px;
+    font-family: 'Lato', sans-serif;
+}
+.title_header {
+    color: #276B5A; 
+    font-family: 'Inter', sans-serif; 
+    font-size: 50px; 
+    text-align: center;
+    font-weight: bold;
+}
+
+.btn {
+    background: #4F9A8C;
+    border: 2px solid #4F9A8C;
+    color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    font-size: 16px;
+    min-width: 200px;
+    text-align: center;
+    cursor: pointer;
+    font-family: 'Inter', sans-serif;
+    transition: 0.3s;
+  }
+  
+.btn:hover {
+    border-color: #3A7D72;
+  }
+
+
+.text a {
+    color: #ffffff;
+    text-decoration: underline;
+}
+.text a:hover {
+    text-decoration: underline;
+}
+
+/* Sidebar styling */
+ .stSidebar { 
+    background-color: #3DB387;
+    color: #345753;
+    font-family: 'Inter', sans-serif;
+} 
+
+.stButton>button {
+    background-color: #3DB387;
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 12px;
+    border: 1px solid #276B5A;
+    transition: 0.3s ease;
+    white-space: nowrap; 
+}
+
+.stButton>button:hover {
+    background-color: #276B5A;
+    color: #EFE9D3;
+    border-color: #588F7C;
+}
+
+
+
+.retry-button button, .back-button button {
+    background-color: #3DB387;
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 12px;
+    border: 1px solid #276B5A;
+    transition: 0.3s ease;
+    white-space: nowrap; 
+}
+
+.retry-button button:hover, .back-button button:hover {
+    background-color: #276B5A;
+    color: #EFE9D3;
+    border-color: #588F7C;
+}
+
+div.stButton > button {
+    padding: 0.8em 3em;
+    font-size: 18px;
+}
+
+
+.title {
+    font-size: 36px;
+    color: #276B5A;
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.retry-button button, .back-button button {
+    background-color: #3DB387;
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 12px;
+    border: 1px solid #276B5A;
+    transition: 0.3s ease;
+    white-space: nowrap; 
+}
+
+.retry-button button:hover, .back-button button:hover {
+    background-color: #276B5A;
+    color: #EFE9D3;
+    border-color: #588F7C;
+}
